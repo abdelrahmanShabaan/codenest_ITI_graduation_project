@@ -1,0 +1,41 @@
+.wc-block-checkout__form {
+	margin: 0;
+	max-width: 100%;
+}
+.is-mobile,
+.is-small,
+.is-medium {
+	.wc-block-checkout__main {
+		order: 1;
+	}
+}
+.is-small,
+.is-medium,
+.is-large {
+	.wc-block-checkout__shipping-fields,
+	.wc-block-checkout__billing-fields {
+		.wc-block-components-address-form {
+			display: flex;
+			flex-wrap: wrap;
+			justify-content: space-between;
+
+			.wc-block-components-text-input,
+			.wc-block-components-country-input,
+			.wc-block-components-state-input {
+				flex: 0 0 calc(50% - #{$gap-small});
+				box-sizing: border-box;
+
+				&:nth-of-type(2),
+				&:first-of-type {
+					margin-top: 0;
+				}
+			}
+
+			.wc-block-components-address-form__company,
+			.wc-block-components-address-form__address_1,
+			.wc-block-components-address-form__address_2 {
+				flex: 0 0 100%;
+			}
+		}
+	}
+}
