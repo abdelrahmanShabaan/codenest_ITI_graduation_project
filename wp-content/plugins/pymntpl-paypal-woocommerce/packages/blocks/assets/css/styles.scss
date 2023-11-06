@@ -1,0 +1,52 @@
+@mixin errorNotice {
+  background-color: #cc1818;
+  color: #fff;
+  padding: 10px;
+}
+
+.wc-ppcp-payment__notice {
+  @include errorNotice;
+}
+
+.wc-ppcp-error__message {
+  @include errorNotice;
+  margin-bottom: 10px;
+}
+
+.wc-block-components-express-payment--checkout {
+  .wc-block-components-express-payment__event-buttons {
+    &.wc-ppcp-sm__container {
+      & > li {
+        &#express-payment-method-paymentplugins_ppcp_express {
+          width: 100%;
+          padding: 0;
+        }
+
+        &[id^="express-payment-method-"] {
+          &:nth-child(n+2) {
+            margin-top: 10px;
+          }
+        }
+      }
+    }
+  }
+}
+
+.wc-ppcp-popup__container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+
+  img {
+    max-width: 150px;
+    width: 110px;
+    height: 56px;
+    max-height: 77px;
+  }
+
+  p {
+    flex: 1 1 100%;
+    text-align: center;
+    margin-top: 10px;
+  }
+}

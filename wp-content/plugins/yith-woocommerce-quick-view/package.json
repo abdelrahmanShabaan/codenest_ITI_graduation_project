@@ -1,0 +1,27 @@
+{
+  "name": "yith-woocommerce-quick-view",
+  "version": "1.32.0",
+  "description": "YITH WooCommerce Quick View",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "release": "cross-env ./bin/release.sh",
+    "release:package": "node ./bin/release-package.js",
+    "build": "npm run js && npm run i18n",
+    "js": "grunt js",
+    "i18n": "grunt makepot",
+    "changelog": "node ./bin/changelog.js"
+  },
+  "author": "YITH",
+  "license": "GPL-3.0+",
+  "keywords": [],
+  "devDependencies": {
+    "chalk": "^4.1.0",
+    "cross-env": "^7.0.3",
+    "dotenv": "^8.2.0",
+    "fs-extra": "^9.1.0",
+    "grunt": "^1.3.0",
+    "grunt-contrib-uglify": "^4.0.0",
+    "grunt-wp-i18n": "^1.0.2",
+    "promptly": "^3.2.0"
+  }
+}

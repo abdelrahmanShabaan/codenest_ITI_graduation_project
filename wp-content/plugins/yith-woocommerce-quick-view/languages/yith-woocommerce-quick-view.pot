@@ -1,0 +1,233 @@
+# Copyright (C) 2023 YITH
+# This file is distributed under the same license as the YITH WooCommerce Quick View package.
+msgid ""
+msgstr ""
+"Project-Id-Version: YITH WooCommerce Quick View 1.30.0\n"
+"Report-Msgid-Bugs-To: "
+"https://wordpress.org/support/plugin/yith-woocommerce-quick-view\n"
+"POT-Creation-Date: 2023-08-02 09:12:35+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2023-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: includes/class.yith-wcqv-admin.php:144
+msgid "Settings"
+msgstr ""
+
+#: includes/class.yith-wcqv-admin.php:145
+msgid "Premium Version"
+msgstr ""
+
+#: init.php:50
+msgid ""
+"YITH WooCommerce Quick View is enabled but not effective. It requires "
+"WooCommerce in order to work."
+msgstr ""
+
+#: init.php:64
+msgid ""
+"You can't activate the free version of YITH WooCommerce Quick View while "
+"you are using the premium one."
+msgstr ""
+
+#: plugin-options/settings-options.php:17
+msgid "General Options"
+msgstr ""
+
+#: plugin-options/settings-options.php:25
+msgid "Enable Quick View"
+msgstr ""
+
+#: plugin-options/settings-options.php:33
+msgid "Enable Quick View on mobile"
+msgstr ""
+
+#: plugin-options/settings-options.php:34
+msgid "Enable quick view features on mobile device too"
+msgstr ""
+
+#: plugin-options/settings-options.php:42
+msgid "Quick View Button Label"
+msgstr ""
+
+#: plugin-options/settings-options.php:43
+msgid "Label for the quick view button in the WooCommerce loop."
+msgstr ""
+
+#: plugin-options/settings-options.php:46
+msgid "Quick View"
+msgstr ""
+
+#: plugin-options/settings-options.php:55 templates/admin/premium.php:421
+#: templates/admin/premium.php:432
+msgid "Style Options"
+msgstr ""
+
+#: plugin-options/settings-options.php:62
+msgid "Modal Window Background Color"
+msgstr ""
+
+#: plugin-options/settings-options.php:71
+msgid "Closing Button Color"
+msgstr ""
+
+#: plugin-options/settings-options.php:80
+msgid "Closing Button Hover Color"
+msgstr ""
+
+#: templates/admin/premium.php:257 templates/admin/premium.php:482
+#. translators: placeholders are used to add html tags.
+msgid ""
+"Upgrade to %1$spremium version%2$s of %1$sYITH WooCommerce Quick View%2$s "
+"to benefit from all features!"
+msgstr ""
+
+#: templates/admin/premium.php:262 templates/admin/premium.php:487
+msgid "UPGRADE"
+msgstr ""
+
+#: templates/admin/premium.php:263 templates/admin/premium.php:488
+msgid "to the premium version"
+msgstr ""
+
+#: templates/admin/premium.php:270
+msgid "Premium Features"
+msgstr ""
+
+#: templates/admin/premium.php:274
+msgid "Button type"
+msgstr ""
+
+#: templates/admin/premium.php:279
+msgid "BUTTON TYPE"
+msgstr ""
+
+#: templates/admin/premium.php:284
+#. translators: placeholders are used to add html tags.
+msgid ""
+"Choose between the button or a custom icon to access the %1$sQuick "
+"View%2$s: you can choose to place it after the \"Add To Cart\" button or "
+"inside the thumbnail of the product."
+msgstr ""
+
+#: templates/admin/premium.php:296 templates/admin/premium.php:297
+#: templates/admin/premium.php:308
+msgid "Product Navigation"
+msgstr ""
+
+#: templates/admin/premium.php:302
+#. translators: placeholders are used to add html tags.
+msgid ""
+"The navigation in the \"Quick View\" allows browsing among %1$sproducts%2$s "
+"displayed in it. The navigation arrows show on mousehover the image of the "
+"next/previous product."
+msgstr ""
+
+#: templates/admin/premium.php:321 templates/admin/premium.php:322
+msgid "Content to display"
+msgstr ""
+
+#: templates/admin/premium.php:327
+#. translators: placeholders are used to add html tags.
+msgid ""
+"The display of the product information in the \"Quick View\" are managed by "
+"%1$sadministrators%2$s who can decide whether to show everything or only a "
+"part of it."
+msgstr ""
+
+#: templates/admin/premium.php:339
+msgid "Quick View Type"
+msgstr ""
+
+#: templates/admin/premium.php:344
+#. translators: placeholders are used to add html tags.
+msgid ""
+"Quick view has two different displaying modes: the first one opens it as a "
+"%1$smodal window%2$s, the other one opens it in the page itself with a "
+"%1$scascading effect%2$s above content page."
+msgstr ""
+
+#: templates/admin/premium.php:350
+msgid "Quick view type"
+msgstr ""
+
+#: templates/admin/premium.php:364
+msgid "\"View details\" button"
+msgstr ""
+
+#: templates/admin/premium.php:369
+#. translators: placeholders are used to add html tags.
+msgid ""
+"An additional button that allows users to access product detail page "
+"directly from quick view window just with a click of the mouse."
+msgstr ""
+
+#: templates/admin/premium.php:381
+msgid "Type of product images"
+msgstr ""
+
+#: templates/admin/premium.php:386
+#. translators: placeholders are used to add html tags.
+msgid ""
+"Each product can have more than one image: choose whether to hide or show "
+"them with the %1$sslider%2$s effect or in the classic %1$sWooCommerce%2$s "
+"display."
+msgstr ""
+
+#: templates/admin/premium.php:404
+msgid "SHARE"
+msgstr ""
+
+#: templates/admin/premium.php:409
+#. translators: placeholders are used to add html tags.
+msgid ""
+"%1$sQuick View is also social-friendly!%2$s Activating this option, you "
+"will be able to share the Quick View on Facebook, Twitter, Pinterest, "
+"Google+, or sending an email."
+msgstr ""
+
+#: templates/admin/premium.php:426
+#. translators: placeholders are used to add html tags.
+msgid ""
+"A rich option panel to change the colors of the %1$s\"Quick View\"%2$s "
+"button and of everything that is within the modal window generated."
+msgstr ""
+
+#: templates/admin/premium.php:445
+msgid "SHORTCODE"
+msgstr ""
+
+#: templates/admin/premium.php:450
+#. translators: placeholders are used to add html tags.
+msgid ""
+"The shortcode of plugin is a $1$srapid$2$s and $1$seasy$2$s solution: you "
+"can add a button in any spot of the page to allow your users to see the "
+"quick view of a specific product in your store."
+msgstr ""
+
+#: templates/admin/premium.php:462
+msgid "Compatibility with other YITH's plugins"
+msgstr ""
+
+#: templates/admin/premium.php:467
+#. translators: placeholders are used to add html tags.
+msgid ""
+"Thanks to the compatibility with %1$sYITH WooCommerce Zoom Magnifier, YITH "
+"WooCommerce Badge Management%2$s and %1$sYITH WooCommerce Wishlist%2$s, you "
+"will be free to enrich further the content of your quick view.%3$s Zoom the "
+"product image, show a badge, or add the button to open the quick view in "
+"all products available in your users' wishlists. With YITH's plugins you "
+"make the difference."
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"The <code><strong>YITH WooCommerce Quick View</strong></code> plugin allows "
+"your customers to have a quick look about products. <a "
+"href=\"https://yithemes.com/\" target=\"_blank\">Get more plugins for your "
+"e-commerce shop on <strong>YITH</strong></a>."
+msgstr ""
