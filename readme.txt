@@ -20,13 +20,12 @@ Features:
  ----------
 Screen shot :
 -----------
-![](screenshot/1.png)
-![](screenshot/2.png)
-![](screenshot/3.png)
-![](screenshot/4.png)
-![](screenshot/5.png)
-![](screenshot/6.png)
-![](screenshot/7.png)
-![](screenshot/shop.png)
-
+![Uploading 1.png…]()
+![Uploading 2.png…]()
+![Uploading 3.png…]()
+![Uploading 4.png…]()
+![Uploading 5.png…]()
+![Uploading 6.png…]()
+![Uploading 7.png…]()
+![Uploading shop.png…]()
  
