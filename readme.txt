@@ -20,12 +20,18 @@ Features:
  ----------
 Screen shot :
 -----------
-![Uploading 1.png…]()
-![Uploading 2.png…]()
-![Uploading 3.png…]()
-![Uploading 4.png…]()
-![Uploading 5.png…]()
-![Uploading 6.png…]()
-![Uploading 7.png…]()
-![Uploading shop.png…]()
- 
+![1](https://github.com/abdelrahmanShabaan/codenest_ITI_graduation_project/assets/48605080/be3cf593-92b1-46d6-bbca-6ab7b3359ead)
+
+![2](https://github.com/abdelrahmanShabaan/codenest_ITI_graduation_project/assets/48605080/026b94d6-4d1d-490d-9352-ab82ccd80925)
+
+![3](https://github.com/abdelrahmanShabaan/codenest_ITI_graduation_project/assets/48605080/50ff6bfe-b9da-4c87-a5cc-f1a6247a94a8)
+
+![4](https://github.com/abdelrahmanShabaan/codenest_ITI_graduation_project/assets/48605080/31b7520e-acf1-421a-9b88-01a549fc751b)
+
+![5](https://github.com/abdelrahmanShabaan/codenest_ITI_graduation_project/assets/48605080/edff18f0-20cb-40fb-97a8-ab5a9f409528)
+
+![6](https://github.com/abdelrahmanShabaan/codenest_ITI_graduation_project/assets/48605080/dce95ee3-6c0c-4e04-ab35-4428a745a5b8)
+
+![7](https://github.com/abdelrahmanShabaan/codenest_ITI_graduation_project/assets/48605080/f526f93c-6f0e-49be-9a4e-03f63359f04b)
+
+![shop](https://github.com/abdelrahmanShabaan/codenest_ITI_graduation_project/assets/48605080/bf34ed5a-fb5f-40ef-b0b8-8d7eee7d9531)
